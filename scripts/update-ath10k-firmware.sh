@@ -3,11 +3,11 @@
 set -e
 set -x
 
-FIRMWARE_URL='https://github.com/kvalo/ath10k-firmware/raw/master/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00282-QCARMSWPZ-1'
-FIRMWARE_MD5='414ba407420eb4d159218ee990acaaed'
+FIRMWARE_URL='https://github.com/kvalo/ath10k-firmware/raw/master/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00288-QCARMSWPZ-1'
+FIRMWARE_MD5='8ced7808c8877e7f8ad664efc0f14992'
 
-BOARD_URL='https://github.com/kvalo/ath10k-firmware/raw/c987e38cbdb90dcb4e477d5dd21de66c77996435/QCA6174/hw3.0/board-2.bin'
-BOARD_MD5='c49731e17190352f6dff99d651e86b4a'
+BOARD_URL='https://github.com/kvalo/ath10k-firmware/raw/master/QCA6174/hw3.0/board-2.bin'
+BOARD_MD5='eb841ae1ac325100da8bcde17cd0080e'
 
 FIRMWARE_DIR='/lib/firmware/ath10k/QCA6174/hw3.0'
 FIRMWARE_NAME='firmware-6.bin'
